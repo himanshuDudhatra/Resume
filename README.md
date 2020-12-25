@@ -1,11 +1,5 @@
 <html>
 	<head>
-		<title>My Resume</title>
-		<style>
-		body{
-			background:url(source.gif);
-		}
-	</style>
 	</head>
 	<body>
   		<center>
